@@ -383,8 +383,6 @@ client.on('message', message => {
 
   ** -emoji <any things> | لتحويل اي كلمه تقولها الي ايموجي**:small_orange_diamond: 
 
-  ** -inv | لدعوة البوت الى سيرفرك**:black_circle: 
-
   ** -support | سيرفر الدعم**:wrench:  :envelope_with_arrow: 
   
   ** -contact | ارسال اقتراح او لمراسلة صاحب البوت**
